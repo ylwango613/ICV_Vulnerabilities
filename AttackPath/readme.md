@@ -1,0 +1,1 @@
+This folder introduces the attack paths for various modules of connected vehicles. The information is derived from the attack methods of 649 real-world vulnerabilities in connected vehicles that we have collected.
