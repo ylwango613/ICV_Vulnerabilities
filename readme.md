@@ -20,4 +20,7 @@ The specific content of the table is as follows:
 | Attack level 3 |     Medium     |     Medium     |      High      |      High      |
 | Attack level 4 |     Medium     |      High      |      High      |    Critical    |
 
-The ratings of 1, 2, 3, and 4 have strict requirements, but detailing these requirements may affect anonymity. Therefore, we will not elaborate on the specifics during the submission stage.
+The ratings of 1, 2, 3, and 4 are based on strict criteria that have been widely recognized by both vulnerability submitters and ICV experts. 
+In fact, these specific guidelines are used to ensure fairness in vulnerability scoring during the competition. 
+However, providing these details may compromise anonymity. 
+Therefore, we will refrain from elaborating on the specifics during the submission stage.
