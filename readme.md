@@ -13,19 +13,13 @@ In the RISK TAXONOMY section of the paper, we mentioned the Vulnerability Risk L
 > For example, if both the ease of conducting the attack and the impact score 4, the vulnerability is classified as critical.
 
 The specific content of the table is as follows:
-$\begin{table}[!htbp]
-\caption{Vulnerability risk level determination.}
-\vspace{-2mm}
-\begin{tabular}{c|cccc}
-\hline
-\multirow{2}{*}{Attack level} & \multicolumn{4}{c}{Impact level}                                                              \\ \cline{2-5} 
-                               & \multicolumn{1}{c|}{1}   & \multicolumn{1}{c|}{2}      & \multicolumn{1}{c|}{3}      & 4      \\ \hline
-1                              & \multicolumn{1}{c|}{Low} & \multicolumn{1}{c|}{Low}    & \multicolumn{1}{c|}{Medium} & Medium \\
-2                              & \multicolumn{1}{c|}{Low} & \multicolumn{1}{c|}{Medium} & \multicolumn{1}{c|}{Medium} & High   \\
-3 & \multicolumn{1}{c|}{Medium} & \multicolumn{1}{c|}{Medium} & \multicolumn{1}{c|}{High} & High     \\
-4 & \multicolumn{1}{c|}{Medium} & \multicolumn{1}{c|}{High}   & \multicolumn{1}{c|}{High} & Critical \\ \hline
-\end{tabular}
-\label{tab:123}
+|  | Impact level 1 | Impact level 2 | Impact level 3 | Impact level 4 |
+|--------------|----------------|----------------|----------------|----------------|
+| Attack level 1            | Low            | Low            | Medium         | Medium         |
+| Attack level 2            | Low            | Medium         | Medium         | High           |
+| Attack level 3            | Medium         | Medium         | High           | High           |
+| Attack level 4            | Medium         | High           | High           | Critical       |
+
 \end{table}$
 
 The ratings of 1, 2, 3, and 4 have strict requirements, but detailing these requirements may affect anonymity. Therefore, we will not elaborate on the specifics during the submission stage.
