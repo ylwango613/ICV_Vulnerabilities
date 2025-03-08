@@ -13,12 +13,13 @@ In the RISK TAXONOMY section of the paper, we mentioned the Vulnerability Risk L
 > For example, if both the ease of conducting the attack and the impact score 4, the vulnerability is classified as critical.
 
 The specific content of the table is as follows:
-|  | Impact level 1 | Impact level 2 | Impact level 3 | Impact level 4 |
-|--------------|----------------|----------------|----------------|----------------|
-| Attack level 1            | Low            | Low            | Medium         | Medium         |
-| Attack level 2            | Low            | Medium         | Medium         | High           |
-| Attack level 3            | Medium         | Medium         | High           | High           |
-| Attack level 4            | Medium         | High           | High           | Critical       |
+|                | Impact level 1 | Impact level 2 | Impact level 3 | Impact level 4 |
+|----------------|:--------------:|:--------------:|:--------------:|:--------------:|
+| Attack level 1 |      Low       |      Low       |     Medium     |     Medium     |
+| Attack level 2 |      Low       |     Medium     |     Medium     |      High      |
+| Attack level 3 |     Medium     |     Medium     |      High      |      High      |
+| Attack level 4 |     Medium     |      High      |      High      |    Critical    |
+
 
 \end{table}$
 
