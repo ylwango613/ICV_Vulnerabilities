@@ -20,7 +20,4 @@ The specific content of the table is as follows:
 | Attack level 3 |     Medium     |     Medium     |      High      |      High      |
 | Attack level 4 |     Medium     |      High      |      High      |    Critical    |
 
-
-\end{table}$
-
 The ratings of 1, 2, 3, and 4 have strict requirements, but detailing these requirements may affect anonymity. Therefore, we will not elaborate on the specifics during the submission stage.
