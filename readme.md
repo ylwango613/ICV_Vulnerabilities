@@ -1,6 +1,6 @@
 # Data description
 
-The vulnerability data mentioned in the article can be found in the ICV_study.* file, which contains all the data we have analyzed. The data is available in two formats: CSV and XLSX. If you need to download the dataset, you can choose the format that suits your needs. Understood, the column headers in the "Attack surface" section should be translated into English, and the numbers 1, 2, and 3 should represent "Short", "MidRange", and "Remote" respectively. 
+The vulnerability data mentioned in the article can be found in the ICV_study.* file, which contains all the data we have analyzed. The data is available in two formats: CSV and XLSX. If you need to download the dataset, you can choose the format that suits your needs. Note that in the Attack surface column, 1 represents short, 2 represents mid-range, and 3 represents remote.
 
 Besides, we have introduced the attack paths for 14 types of connected vehicle vulnerabilities. The detailed flowcharts are available in the AttackPath folder. Although these contents were not specifically described in the paper due to security concerns, we will introduce the specifics of each attack method in detail through blog posts.
 
