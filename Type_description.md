@@ -51,6 +51,10 @@ The *DoS* vulnerabilities account for 7.2% of the total vulnerabilities, with a 
 
 ## File Operation
 
+
+
+Thank you for raising this question. Although file accessing, downloading, and traversal are all file-related vulnerabilities, they are distinct concepts. Specifically, file accessing vulnerabilities arise from insecure configurations, enabling attackers to access sensitive files directly. File download vulnerabilities occur due to insufficient access controls, allowing attackers to download files they shouldn't. File traversal is about exploiting inadequate path filtering to navigate to unauthorized directories. While they can all lead to data breaches, they involve different attack vectors and require different security measures.
+
 The file operation type of vulnerabilities account for 5.9% of the total vulnerabilities, with a total of 38 instances. These vulnerabilities are divided into six types: *file accessing*, *file download*, *file tampering*, *file upload*, *file traversal*, and *file delete*.
 
 - **File accessing.** The *file accessing* vulnerabilities account for 36.8% of all file operation vulnerabilities, occurring in cloud platform and IVI components. These vulnerabilities arise from insecure file partition management configurations on cloud platforms or arbitrary file reading vulnerabilities in the browser on the IVI system. Attackers can access sensitive files, leading to privacy data breach.
