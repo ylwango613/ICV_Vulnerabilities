@@ -1,4 +1,4 @@
-﻿ID,Vulnerability description,Location,Module,Type,Threat,Time,Attack surfaces,Car Size Classification,SAE International level,car models
+﻿ID,Vulnerability description,Location,Module,Type,Threat,Time,Attack surfaces,Car size classification,SAE international level,Car models
 1,XX enterprise multi-platform vehicles exist in remote control keys to re -put loophole,In-vehicle,Radio,Replay,Critical,2024-4-29,2,Mid-Size Sedan,l2,German
 2,The XX enterprise platform vehicle exists in the remote control key to re -put the loophole,In-vehicle,Radio,Replay,Critical,2024-4-29,2,Mid-Size Sedan,l2,German
 3,XX enterprise PCMS Admin project management background weak order order,Outside-vehicle,Cloud platform,Weak password,Low,2024-4-29,3,Mid-Size SUV,l3,German
