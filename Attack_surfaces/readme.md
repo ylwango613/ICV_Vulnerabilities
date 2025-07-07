@@ -11,10 +11,15 @@ In the ICV_study.* files within this directory, an additional column named "atta
 
 According to the data in Table 1, regarding vulnerability types:
 
-- Authentication vulnerabilities, such as unauthorized accessing and identity spoofing, along with information leakage and injection vulnerabilities like SQL injection and command injection, are predominantly concentrated on the remote attack surface.
-- OS-related vulnerabilities, including kernel issues and arbitrary software installation, as well as DoS attacks, are primarily focused on the short-range attack surface.
-- File operation vulnerabilities, which encompass file accessing, downloading, tampering, uploading, traversal, and deletion, are more evenly distributed between the short and remote attack surfaces.
-- Interception vulnerabilities, such as relay, replay, and man-in-the-middle attacks, are balanced between the short and mid-range attack surfaces, with mid-range vulnerabilities being exclusive to the interception type.
+- Authentication vulnerabilities, such as unauthorized accessing and identity spoofing, along with
+  information leakage and injection vulnerabilities like SQL injection and command injection, are
+  predominantly concentrated on the remote attack surface.
+- OS-related vulnerabilities, including kernel issues and arbitrary software installation, as well as DoS
+  attacks, are primarily focused on the short-range attack surface.
+- File operation vulnerabilities, which encompass file accessing, downloading, tampering, uploading,
+  traversal, and deletion, are more evenly distributed between the short and remote attack surfaces.
+- Interception vulnerabilities, such as relay, replay, and man-in-the-middle attacks, are balanced between
+  the short and mid-range attack surfaces, with mid-range vulnerabilities being exclusive to the interception type.
 
 From the data presented, we can derive the following insights:
 
